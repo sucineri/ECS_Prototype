@@ -1,0 +1,11 @@
+*.DS_Store
+*.csproj
+*.sln
+Temp/*
+Library/*
+obj/
+obj/*
+*.userprefs
+node_modules/
+.vs/
+Logs/*
